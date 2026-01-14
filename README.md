@@ -2,10 +2,14 @@
 
                    The purpose of the repository
 
-#Centralized Storage – Keeps all your code, documents, and resources in one place.
-#Version Control – Tracks every change you make, so you can revert to previous versions if needed.
+Centralized Storage – Keeps all your code, documents, and resources in one place.
+
+Version Control – Tracks every change you make, so you can revert to previous versions if needed.
+
 Collaboration – Allows multiple people to work on the same project without overwriting each other’s work.
+
 Documentation – Stores important files like README.md to explain the project.
+
 Backup – Acts as a safe copy of your project online (especially when hosted on GitHub).
 
                     What the python script does 
