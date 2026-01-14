@@ -15,7 +15,10 @@ Backup – Acts as a safe copy of your project online (especially when hosted on
                     What the python script does 
 
 Automation – Performs tasks automatically (e.g., downloading files, sending emails, fetching data).
+
 Computation – Runs calculations, data analysis, or simulations.
+
 Interaction – Can interact with files, APIs, databases, or the internet.
+
 Reusable Logic – A script can be run multiple times to repeat the same task.
                     
